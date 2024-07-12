@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Fy7KFa9ytb7d95cPqRf7IkGmq6a9Mf07sdvpDcgQpYQ=",
+  "Source": "PasswordGeneratorAPI",
+  "BasePath": "_content/PasswordGeneratorAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
